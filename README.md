@@ -1,16 +1,17 @@
-### Hi there 👋
+###                                                     Hi , Arthur here 
 
-<!--
-**arthurkeeng/arthurkeeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Software Engineer , Building and crafting business and individual solutions through Tech
+  
+- 🌱 I’m currently learning to build safer systems through understanding how the cyberspace operates
+  
+- 👯 I’m looking to collaborate with fellow developers keen on bringing viable change through Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about **Javascript , Solidity , Cybersecurity , Node , React , MongoDb , SQL**
+  
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- ⚡ Fun fact: There's no better life outside **God**
+
+- [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurkeeng)]
+

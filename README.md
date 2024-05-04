@@ -13,8 +13,8 @@
 
 - ⚡ Fun fact: There's no better life outside **God**
 
-- ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurkeeng&show_icons=true&theme=radical)
+  ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurkeeng&show_icons=true&theme=radical)
 
 - ##Top Languages
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurkeeng&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurkeeng&show_icons=true&theme=radical)

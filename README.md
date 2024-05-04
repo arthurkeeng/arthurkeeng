@@ -13,5 +13,5 @@
 
 - ⚡ Fun fact: There's no better life outside **God**
 
-- [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurkeeng)]
+- [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurkeeng&show_icons=true&theme=radical)
 

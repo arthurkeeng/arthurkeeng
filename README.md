@@ -7,7 +7,7 @@
   
 - 👯 I’m looking to collaborate with fellow developers keen on bringing viable change through Tech
 
-- 💬 Ask me about **Javascript , Solidity , Cybersecurity , Node , React , MongoDb , SQL**
+- 💬 Ask me about **Javascript , Solidity , Rust , Node , React , MongoDb , SQL**
   
 
 

@@ -3,11 +3,11 @@
 
 - 🔭 Software Engineer , Building and crafting business and individual solutions through Tech
   
-- 🌱 I’m currently learning to build safer systems through understanding how the cyberspace operates
+- 🌱 I’m currently learning to build safer systems through type safe systems
   
 - 👯 I’m looking to collaborate with fellow developers keen on bringing viable change through Tech
 
-- 💬 Ask me about **Javascript , Solidity , Rust , Node , React , MongoDb , SQL**
+- 💬 Ask me about **Javascript , Solidity , Rust , Node , React , MongoDb , SQL , Nextjs**
   
 
 

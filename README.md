@@ -10,7 +10,7 @@
 - 💬 Ask me about **Javascript , Solidity , Rust , Node , React , MongoDb , SQL , Nextjs**
   
 
-Click here to check out my [Portfolio](https://arthurchima.vercel.app).
+Click here to check out my [Portfolio](https://omeenee.vercel.app).
 
 
 
